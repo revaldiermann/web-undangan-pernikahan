@@ -1,4 +1,8 @@
 # 💍 Web Undangan Pernikahan
+## 📸 Preview Website
+
+![Preview Website]<img src="assets/Tangkapan Layar 2026-02-26 pukul 07.27.43.png" width="600">
+
 
 Project website undangan pernikahan digital.
 
